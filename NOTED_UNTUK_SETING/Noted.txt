@@ -1,0 +1,3 @@
+Memakai Laravel 7 dan PHP 7.2.32
+DB sudah saya export, jika ingin mencoba memakai DB saya, atau bisa juga
+buat db lagi dengan memigrate lagi migration db nya.

@@ -47,10 +47,10 @@ class SkorController extends Controller
             'away_score.*' => 'required|integer',
         ]);
 
-        $homeClubs = $validatedData['home_club'];
-        $awayClubs = $validatedData['away_club'];
-        $homeScores = $validatedData['home_score'];
-        $awayScores = $validatedData['away_score'];
+        // $homeClubs = $validatedData['home_club'];
+        // $awayClubs = $validatedData['away_club'];
+        // $homeScores = $validatedData['home_score'];
+        // $awayScores = $validatedData['away_score'];
 
         // dd($homeClubs);
 
